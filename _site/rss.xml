@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JacksonNote</title>
+    <description>陌上少年郎  不醉红尘  心净若琉璃  梨涡浅露  一刹间  宛若星曦  度尽红尘三千客</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 27 Dec 2018 14:29:19 +0800</pubDate>
+    <lastBuildDate>Thu, 27 Dec 2018 14:29:19 +0800</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>HELLO WORLD</title>
+        <description>&lt;h1 id=&quot;first-blog&quot;&gt;First Blog&lt;/h1&gt;
+
+&lt;h3 id=&quot;code-origins-hello-world&quot;&gt;Code origins hello world&lt;/h3&gt;
+
+</description>
+        <pubDate>Thu, 27 Dec 2018 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2018/12/27/First-Blog.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/12/27/First-Blog.html</guid>
+        
+        <category>jekyll</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
